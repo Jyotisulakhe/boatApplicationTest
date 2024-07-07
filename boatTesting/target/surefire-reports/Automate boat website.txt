@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: Automate boat website
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 75.755 s <<< FAILURE! - in Automate boat website
+filter true wireless earbuds #2(Automate boat website)  Time elapsed: 49.769 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: //form[@id='facet-filters-form']/div/div[3]/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0.2, moz:accessibilityChecks: false, moz:buildID: 20240624183754, moz:debuggerAddress: 127.0.0.1:34457, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22032, moz:profile: C:\Users\Asus\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:34457/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: ad582c58-3e72-4a9c-b0d6-27ade77f8a7b
+
