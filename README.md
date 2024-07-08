@@ -53,12 +53,13 @@ Technologies Used :
 7. Cross-browser capable 
 
 
-![boatt](https://github.com/Jyotisulakhe/boatApplicationAutomate/assets/122368666/654dfadf-59b5-4f8a-8698-9b45d8694fcf)
+![boatt](https://github.com/Jyotisulakhe/boatApplicationTest/assets/122368666/851441f1-f3a4-4b36-81d0-1781a827abd7)
 
 After completing all requirements result should display like this, -
 
 
-![tesing](https://github.com/Jyotisulakhe/boatApplicationAutomate/assets/122368666/6b2e91f3-0729-4d53-9c27-a93aec5e5d1c)
+![tesing](https://github.com/Jyotisulakhe/boatApplicationTest/assets/122368666/2cbbe493-36db-4ded-b2ec-d6d8c5fb1ff0)
+
 
 
 Thank you for visit, and giving your valuable time.
