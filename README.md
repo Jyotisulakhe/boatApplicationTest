@@ -10,8 +10,8 @@ The Boat Website Automation project is designed to test and validate different f
 - **Navigation Tests:** Verify that all navigation links work correctly.
 - **Search Functionality Tests:** Ensure the search feature returns relevant results.
 
-  **Install dependencies:**
-     Add dependencies on pom.xml file.
+## Install dependencies:
+- **Add dependencies on pom.xml file**
    
      cucumber-java,   selenium-java,    junit,   cucumber-junit,   cucumber-testng
   
