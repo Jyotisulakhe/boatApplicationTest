@@ -13,17 +13,8 @@ The Boat Website Automation project is designed to test and validate different f
   **Install dependencies:**
      Add dependencies on pom.xml file.
    
-     cucumber-java
-   
-     selenium-java
-   
-     junit
-   
-     cucumber-junit
-   
-     cucumber-testng
+     cucumber-java,   selenium-java,    junit,   cucumber-junit,   cucumber-testng
   
-
 
 ## Technologies Used
 
@@ -31,19 +22,6 @@ The Boat Website Automation project is designed to test and validate different f
 - **Java:** Programming language used for writing the automation scripts.
 - **Cucumber framework:** Cucumber framework used for way writing Scripte
   
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- **Name:** Jyoti Sulakhe
-- 
-- **Email:** jyotisulakhe123@gmail.com
-- 
-- **GitHub:** https://github.com/Jyotisulakhe
-
-
-Technologies Used :
 1. Java
 2. Selenium
 3. Cucumber framework
@@ -53,13 +31,22 @@ Technologies Used :
 7. Cross-browser capable 
 
 
+
 ![boatt](https://github.com/Jyotisulakhe/boatApplicationTest/assets/122368666/851441f1-f3a4-4b36-81d0-1781a827abd7)
+
 
 After completing all requirements result should display like this, -
 
 
 ![tesing](https://github.com/Jyotisulakhe/boatApplicationTest/assets/122368666/2cbbe493-36db-4ded-b2ec-d6d8c5fb1ff0)
 
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Name:** Jyoti Sulakhe
+- **Email:** jyotisulakhe123@gmail.com
+- **GitHub:** https://github.com/Jyotisulakhe
 
 
 Thank you for visit, and giving your valuable time.
