@@ -7,8 +7,8 @@ The Boat Website Automation project is designed to test and validate different f
 
 ## Features
 
-- **Navigation Tests:** Verify that all navigation links work correctly.
-- **Search Functionality Tests:** Ensure the search feature returns relevant results.
+- **Tests:** Verify Category section.
+- **Filter Functionality Tests:** Ensure the Filter feature returns relevant results.
 
 ## Install dependencies:
 - **Add dependencies on pom.xml file**
