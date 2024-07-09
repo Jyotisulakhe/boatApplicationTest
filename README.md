@@ -25,10 +25,9 @@ The Boat Website Automation project is designed to test and validate different f
 1. Java
 2. Selenium
 3. Cucumber framework
-4. Page Object Model (POM)
-5. HTML report created
-6. Parallel testing functionality
-7. Cross-browser capable 
+4. HTML report created
+5. Parallel testing functionality
+6. Cross-browser capable 
 
 
 
